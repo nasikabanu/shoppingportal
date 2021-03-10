@@ -17,9 +17,7 @@ const DashboardScreen = ({ navigation }) => {
               textAlign: 'center',
               marginBottom: 16
             }}>
-            This is Dashboard Page of the App  
-
-            Learning purpose for merging
+            This is Dashboard Page of the App Learning Purposes
           </Text>
           
         </View>
