@@ -17,7 +17,7 @@ const DashboardScreen = ({ navigation }) => {
               textAlign: 'center',
               marginBottom: 16
             }}>
-            This is Dashboard Page of the App
+            This is Dashboard Page of the App Learning 
           </Text>
           
         </View>
