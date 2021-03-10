@@ -19,7 +19,10 @@ const DashboardScreen = ({ navigation }) => {
             }}>
             This is Dashboard Page of the App  
 
-            Learning purpose for merging
+            Learning purpose for merging  
+
+            Added the things for Reviewing 
+
           </Text>
           
         </View>
